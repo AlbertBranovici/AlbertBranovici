@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating an app using Kafka and Spring<br>👯 I’m looking to collaborate on back-end projects<br>🌱 I’m currently learning Spring boot and Docker<br>
+🔭 Currently developing my skills on Kafka and Spring<br>👯 I’m looking to collaborate on back-end projects<br>🌱 I’m currently learning Spring boot and Docker<br>
 
 
 ## 🌐 Socials:
